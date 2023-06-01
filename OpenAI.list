@@ -5,14 +5,14 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 
 # >> OpenAI Related
 DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX.com
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,identrust.com
 
 # >> OpenAI CDN
 DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
-DOMAIN-SUFFIXapi-site.azureedge.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 
 # >> OpenAI Other
 DOMAIN-SUFFIX,challenges.cloudflare.com
