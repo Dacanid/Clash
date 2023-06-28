@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,poe.com
+
+# >> 华尔街中文网图片
+DOMAIN-SUFFIX,images.wsj.net
