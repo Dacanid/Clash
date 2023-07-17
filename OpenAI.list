@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,poe.com
 
 # >> 华尔街中文网图片
 DOMAIN-SUFFIX,images.wsj.net
+
+# >> 香港阿里云
+alibabacloud.com
