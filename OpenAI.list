@@ -24,4 +24,4 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,images.wsj.net
 
 # >> 香港阿里云
-alibabacloud.com
+DOMAIN-SUFFIX,alibabacloud.com
