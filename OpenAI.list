@@ -25,3 +25,7 @@ DOMAIN-SUFFIX,images.wsj.net
 
 # >> 香港阿里云
 DOMAIN-SUFFIX,alibabacloud.com
+
+# >> Google Bard
+DOMAIN-SUFFIX,bard.google.com
+
