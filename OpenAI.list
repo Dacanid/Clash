@@ -29,3 +29,6 @@ DOMAIN-SUFFIX,alibabacloud.com
 # >> Google Bard
 DOMAIN-SUFFIX,bard.google.com
 
+# >> 俄罗斯钓鱼4
+IP-CIDR,223.87.182.52/32
+
