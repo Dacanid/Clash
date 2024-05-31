@@ -1,3 +1,9 @@
+# > perplexity
+DOMAIN-SUFFIX,perplexity.ai
+
+# > poe
+DOMAIN-SUFFIX,poe.com
+
 # > OpenAI
 # >> OpenAI Challenge & SSO
 DOMAIN-SUFFIX,auth0.com
@@ -28,6 +34,7 @@ DOMAIN-SUFFIX,alibabacloud.com
 
 # >> Google Bard
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
 
 # >> 俄罗斯钓鱼4
 IP-CIDR,185.71.67.221/32
